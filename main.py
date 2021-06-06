@@ -5,7 +5,7 @@ import key
 
 
 my_secret = key.bot_key
-my_api = key.bot_key
+my_api = key.api_key
 
 
 
